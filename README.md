@@ -1,2 +1,2 @@
-# publik
+# public
 Managed Account
